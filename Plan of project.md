@@ -10,28 +10,31 @@ Brief description of the dataset:
 - number of columns 21
 - number of features?
 
-High-level Planning of the project, e.g:
+# High-level Planning of the project, e.g:
 
-Day 1 - EDA
+## Day 1 - EDA
 
-Day 2 - Clean the data
-Remove typos of
+## Day 2 - Clean the data
+Remove typos of duplicate
 Correct datatypes
 ...
-Day 3
+
+## Day 3
 Transform the data
 Scale Numerical Features
 Encode Categorical Features
 ...
-Day 4 - Modelling
+
+## Day 4 - Modelling
 Split data
 ...
-Etc
+
+## Day 5 - Presentation
 
 
 
 
-Useful Resources
+### Useful Resources
 
 https://medium.com/@mjspeck/presenting-code-using-jupyter-notebook-slides-a8a3c3b59d67
 https://alum.mit.edu/best-practices-powerpoint-presentations
