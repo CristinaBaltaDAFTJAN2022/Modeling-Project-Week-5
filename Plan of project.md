@@ -7,7 +7,7 @@ We will work on Modeling project: Real estate modeling.
 Brief description of the dataset:
 - Source Ironhack  number of features)
 - number of rows 21598
-- number of columns 23
+- number of columns 21
 - number of features?
 
 High-level Planning of the project, e.g:
