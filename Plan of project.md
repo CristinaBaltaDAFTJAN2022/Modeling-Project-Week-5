@@ -3,6 +3,7 @@
 Members of the group: Nina and Cristina
 
 We will work on Modeling project: Real estate modeling.
+ The task is to build a model that will predict the price of a house based on features provided in the dataset. 
 
 Brief description of the dataset:
 - Source Ironhack  number of features)
